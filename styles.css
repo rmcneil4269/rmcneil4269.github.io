@@ -3,14 +3,39 @@ body {
     font-family:'Times New Roman', Times, serif;
 }
 h1 {
+    height:50px;
     text-align: center;
     color: #4C00FF;
+    background-color: #000000;
+    border: 2px solid rgb(246,246,213);
 }
 h2 {
     text-align: left;
     color:#E9ECF8;
+    width: 30%;
+    background-color: #000000;
+    border:1px solid rgb(246,246,213);
+}
+h3 {
+    text-align: left;
+    color:#B4A6D5;
 }
 p {
     text-align: left;
     color: #E9ECF8
+}
+.project{
+    width:1000px;
+    margin:30px;
+    border: 2px solid rgb(246,246,213);
+    background: rgb(78,0,255);
+
+}
+.project img {
+    width: 1000px;
+    height: 500px;
+    margin: 10px;
+    border: 2px solid rgb(246,246,213);
+    display:block;
+    margin:auto;
 }
