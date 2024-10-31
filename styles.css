@@ -11,9 +11,9 @@ h1 {
 }
 h2 {
     text-align: left;
-    color:#E9ECF8;
+    color:#4C00FF;
     width: 30%;
-    background-color: #000000;
+    background-color: #1B1C22;
     border:1px solid rgb(246,246,213);
 }
 h3 {
@@ -22,7 +22,7 @@ h3 {
 }
 p {
     text-align: left;
-    color: #E9ECF8
+    color: #FFA1E1;
 }
 .project{
     width:1000px;
@@ -38,4 +38,8 @@ p {
     border: 2px solid rgb(246,246,213);
     display:block;
     margin:auto;
+}
+.aboutme img {
+    width: 500px;
+    height: 500px;
 }
